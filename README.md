@@ -5,7 +5,7 @@ Brief information:
 - 📌 Kyiv, Ukraine
 - 📧 igor.c.m@ukr.net
 - 📞 097 70 24 504
-- 💼 [`web page`](https://ihor-mykhailychenko.netlify.app/).
+- 💼 [`website`](https://ihor-mykhailychenko.netlify.app/).
 
 #### Technology stack
 
