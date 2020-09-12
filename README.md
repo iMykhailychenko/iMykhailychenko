@@ -2,6 +2,7 @@
 
 Brief information:
 
+- 💻 Front-end developer (react.js)
 - 📌 Kyiv, Ukraine
 - 📧 igor.c.m@ukr.net
 - 📞 097 70 24 504
