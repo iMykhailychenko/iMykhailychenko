@@ -33,7 +33,9 @@ Brief information:
 
 <img align="left" alt="WordPress" width="25px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
 
-### Analytics
 
-<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" />
+
+### Analytics 
+
+<img height="160em" align="left" alt="webDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" /> 
 <img height="160em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&theme=radical&layout=compact" />
