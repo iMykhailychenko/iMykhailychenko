@@ -7,7 +7,7 @@ Brief information:
 - 📞 097 70 24 504
 - 💼 [website](https://ihor-mykhailychenko.netlify.app/)
 
-> 
+
 
 ### Technology stack
 
@@ -35,7 +35,7 @@ Brief information:
 
 <img alt="WordPress" width="25px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
 
-> 
+
 
 ### Analytics 
 
