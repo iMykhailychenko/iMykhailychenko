@@ -7,8 +7,9 @@ Brief information:
 - 📞 097 70 24 504
 - 💼 [website](https://ihor-mykhailychenko.netlify.app/)
 
+---
 
-#### Technology stack
+### Technology stack
 
 <img align="left" alt="javascript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -34,9 +35,10 @@ Brief information:
 
 <img alt="WordPress" width="25px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
 
+---
 
 ### Analytics 
 
-<img widht="200em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" />
+<img width="200em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" />
 
-<img widht="200em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&theme=radical&layout=compact" />
+<img width="200em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&theme=radical&layout=compact" />
