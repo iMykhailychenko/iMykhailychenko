@@ -39,6 +39,6 @@ Brief information:
 
 ### Analytics 
 
-<img width="200epx" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" />
+<img width="200px" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&theme=radical&show_icons=true" />
 
 <img width="200px" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&theme=radical&layout=compact" />
