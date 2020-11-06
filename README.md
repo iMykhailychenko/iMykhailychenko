@@ -40,6 +40,6 @@ Brief information:
 
 ### Analytics 
 
-<img width="700em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&show_icons=true" />
+<img width="500em" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iMykhailychenko&show_icons=true" />
 
-<img width="700em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&layout=compact" />
+<img width="500em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&layout=compact" />
