@@ -6,7 +6,7 @@ Brief information:
 - 📌 Kyiv, Ukraine
 - 📧 igor.c.m@ukr.net
 - 📞 097 70 24 504
-- 🔭 I’m currently working on [blog-app]https://blog-eta-teal.vercel.app/
+- 🔭 I’m currently working on [blog-app](https://blog-eta-teal.vercel.app/)
 - 💼 [website](https://ihor-mykhailychenko.netlify.app/)
 
 
