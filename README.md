@@ -10,6 +10,11 @@ Brief information:
 - ⚡  check out my [website](https://ihor-mykhailychenko.netlify.app/)
 
 
+##### Resume 2.0.0v.  
+https://blog-eta-teal.vercel.app/
+##### Resume 1.0.0v.  
+https://imykhailychenko.github.io/resume-v2/dist/
+
 
 ### Technology stack
 
