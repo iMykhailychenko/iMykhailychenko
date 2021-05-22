@@ -51,6 +51,7 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=iMykhailychenko)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iMykhailychenko&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <img width="500em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iMykhailychenko&layout=compact" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iMykhailychenko&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
