@@ -40,7 +40,7 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 <img align="left" alt="nest.js" width="25px" src="https://user-images.githubusercontent.com/50461642/141481880-c40a3814-38c8-45b9-8b56-65d225b2defa.png" />
 
-<img align="left" alt="mongodb" styles="width: 45px;height:25px;object-fit:contain;" src="https://user-images.githubusercontent.com/50461642/141482869-12558c6d-d156-4033-941f-818f765e1a89.png" />
+<img align="left" alt="mongodb" width="45px" height="25px" styles="object-fit:contain;" src="https://user-images.githubusercontent.com/50461642/141482869-12558c6d-d156-4033-941f-818f765e1a89.png" />
 
 <img align="left" alt="postgresql" width="25px" src="https://user-images.githubusercontent.com/50461642/141481707-4a2f18f1-36be-4869-b33c-04c3386e177f.png" />
 
