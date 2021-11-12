@@ -30,9 +30,19 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 <img align="left" alt="nextjs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />
 
+<img align="left" alt="angular" width="25px" src="https://user-images.githubusercontent.com/50461642/141482142-3f357dae-cf3e-4883-9792-5231eccb2021.png" />
+
+<img align="left" alt="docker" width="25px" src="https://user-images.githubusercontent.com/50461642/141482533-96085de1-b15c-4fa9-ad4b-17b438129192.png" />
+
+<img align="left" alt="python" width="25px" src="https://user-images.githubusercontent.com/50461642/141482002-d729fa25-bc18-468d-befa-8275158acaac.png" />
+
 <img align="left" alt="node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="node.js" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="nest.js" width="25px" src="https://user-images.githubusercontent.com/50461642/141481880-c40a3814-38c8-45b9-8b56-65d225b2defa.png" />
+
+<img align="left" alt="mongodb" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="postgresql" width="25px" src="https://user-images.githubusercontent.com/50461642/141481707-4a2f18f1-36be-4869-b33c-04c3386e177f.png" />
 
 <img align="left" alt="HTML5" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
