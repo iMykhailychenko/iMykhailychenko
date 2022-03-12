@@ -1,4 +1,6 @@
-<img alt="stop war!" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fexpotobi.com%2Fnews%2Fstop-putin-stop-war&psig=AOvVaw2V6SUxn3UH2T9gVFFjhkLw&ust=1647199153276000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC4wpmlwfYCFQAAAAAdAAAAABAD"/>
+![image](https://user-images.githubusercontent.com/50461642/158031937-40d879d5-2381-4fd5-974f-4ec19c16a156.png)
+
+
 
 ### Hi there 👋
 
