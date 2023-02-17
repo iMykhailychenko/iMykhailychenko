@@ -64,12 +64,8 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 ### The languages I use
 
-| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" height="300px">
-|
+<img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" height="300px">
 
-| ✍️ Coding activity                                                                                                                                      |
+| ✍️ Coding activity                                                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/a8346f99-47f2-4e1c-beac-ef1c09073c73.svg" width="1000px"> 
-|
+| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/a8346f99-47f2-4e1c-beac-ef1c09073c73.svg" width="1000px">                    |
