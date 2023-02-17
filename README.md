@@ -62,10 +62,14 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 
 
-### Analytics 
+### The languages I use
 
-<img align="left" src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" alt="stats" height="400" />
+| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" height="300px">
+|
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iMykhailychenko&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iMykhailychenko&layout=compact)
+| ✍️ Coding activity                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/a8346f99-47f2-4e1c-beac-ef1c09073c73.svg" width="1000px"> 
+|
