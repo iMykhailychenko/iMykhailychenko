@@ -64,7 +64,7 @@ https://imykhailychenko.github.io/resume-v2/dist/
 
 ### Analytics 
 
-<img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" alt="stats" height="400">
+<img align="left" src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/ece96473-0d52-4fb3-94a1-43e448fa5fff.svg" alt="stats" height="400" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iMykhailychenko&show_icons=true)
 
