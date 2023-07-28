@@ -59,22 +59,3 @@ https://imykhailychenko.github.io/resume-v2/dist/
 <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img alt="WordPress" width="25px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
-
-
-
-### The languages I use
-
-| Over last 7 days                                                                                                                                        | All time                                                                                                                                                  |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/071b7335-43d0-4401-9af2-7c927b91e69e.svg" height="370px">                    | <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/89cb8825-6adc-4088-9da2-341f14f440ef.svg" height="370px">                      |
-
- 
-| Editors                                                                                                                                                 | OS                                                                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/a81b3379-a8f0-4ae4-b762-b80122fe5542.svg" height="370px">                    | <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/e745ff47-2439-4f9c-a5f1-8458c7ba11b6.svg" height="370px">                      |
-
-
-
-<!-- | Coding activity                                                                                                                                       |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://wakatime.com/share/@d6f8f864-5cc5-45d2-a16e-70f1d7f10da4/a8346f99-47f2-4e1c-beac-ef1c09073c73.svg" width="1000px">                    | -->
