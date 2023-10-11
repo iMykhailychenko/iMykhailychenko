@@ -11,7 +11,7 @@ Brief information:
 - 📧 igor.c.m@ukr.net
 - 📞 097 70 24 504
 - 🔭 currently working on [blog-app](https://blog-eta-teal.vercel.app/) 
-- 🦮 pet projects [phoqer.com](http://phoqer.com/) / [house rent app](http://70.34.201.18)
+- 🦮 pet projects [phoqer.com](https://phoqer.com/)
 - ⚡  check out my [website](https://ihor-mykhailychenko.netlify.app/)
 
 
